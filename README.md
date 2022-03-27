@@ -3,7 +3,7 @@
 <h3> Track your work </h3>
 
 
-Live Preview :\
+Live Preview :
 
 https://tracking-list-app.netlify.app/
  
