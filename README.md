@@ -4,7 +4,8 @@
 
 
 Live Preview :\
-tracking-list-app.netlify.app
+
+https://tracking-list-app.netlify.app/
  
  <h3> Overview:</h3>
  <li>To Do's App</li>
